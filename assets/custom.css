@@ -1,0 +1,49 @@
+    .icons {
+        display: flex;
+        justify-content: space-evenly;
+    }
+    
+    .icons .fa {
+        font-size: 16px;
+        padding-top: 4px;
+    }
+    
+    .links a {
+        color: #216619;
+        text-decoration: none;
+        background-color: whitesmoke;
+        font-size: 12px;
+       
+ padding: 7px;
+    }
+    
+    .header {
+        background-color: blue;
+        padding-top: 10px;
+        color: white;
+    }
+    
+    .logo {
+        width: 191px;
+        height: 51px
+    }
+    
+    .nav-sec {
+        background-color: rebeccapurple;
+    }
+    
+    .bg-light {
+        background-color: transparent;
+    }
+    
+    .padd {
+        padding: 0;
+    }
+    
+    .marquee {
+        background-color: red;
+    }
+    
+    marquee.marquee {
+        background-color: red;
+    }

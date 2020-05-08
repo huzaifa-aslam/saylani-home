@@ -1,0 +1,23 @@
+    .icons {
+        display: flex;
+        justify-content: space-evenly;
+    }
+    
+    .icons .fa {
+        font-size: 16px;
+        padding-top: 4px;
+    }
+    
+    .links a {
+        color: #216619;
+        text-decoration: none;
+        background-color: whitesmoke;
+        font-size: 12px;
+        padding: 7px;
+    }
+    
+    .header {
+        background-color: #326dc3;
+        padding-top: 10px;
+        color: white;
+    }
